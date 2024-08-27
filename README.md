@@ -1,5 +1,5 @@
 # Projects_2023
-Projects that I have worked on in my first year of University as well as in my free-time, 2023.
+Projects that I have worked on in my first year of University as well as in my free-time ( which I rarely have these days), 2023.
 You can veiew the seperate repo for my CreateIT project here: https://github.com/PassionOverPain/CreateTech
 
 # Installation
