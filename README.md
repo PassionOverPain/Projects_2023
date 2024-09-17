@@ -4,3 +4,5 @@ You can veiew the seperate repo for my CreateIT project here: https://github.com
 
 # Installation
 Unzip each file, enter the Debug folder and run the executable file.
+
+Rest coming soon
